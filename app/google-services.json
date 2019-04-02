@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "732234700466",
+    "firebase_url": "https://gpsreallocation.firebaseio.com",
+    "project_id": "gpsreallocation",
+    "storage_bucket": "gpsreallocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732234700466:android:bc1da575e413762a",
+        "android_client_info": {
+          "package_name": "com.example.gpsola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732234700466-fejhlj924ostcu4u7f19vbdd8qeba7ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpsola",
+            "certificate_hash": "3d9c81d70619117a97b15e1c7b6a5b22f27cfaa4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsdAkYrGKZ0pf5E6B2cMPCyjnsuYj4KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732234700466-7gm38h67frh7lpikauq4r1k2kqjvdvbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
