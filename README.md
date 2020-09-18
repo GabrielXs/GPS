@@ -6,7 +6,7 @@ Projeto criado para Estudo visando o uso GPS criando Polyline no Maps utilizando
 
 ### Tech
 
-* [Kotlin] - Android Nativo
+* [Java] - Android Nativo
 * [Google Maps] Api Google Maps
 
 
